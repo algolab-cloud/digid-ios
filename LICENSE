@@ -1,0 +1,41 @@
+digid SDK Licence
+
+Copyright (c) 2026 Algolab Limited. All rights reserved.
+
+The digid SDK (this package, including its compiled engine, model files, bindings and screens)
+is proprietary software of Algolab Limited ("digid"). It is licensed, not sold.
+
+1. Permission. You may download and install the SDK and integrate it into your own
+   applications:
+   a. for development and testing, in evaluation mode, without a licence key; results are
+      watermarked and must not be used in production; and
+   b. in production, only with a valid digid licence key issued to you, for the apps and
+      features that key covers, under your agreement with digid and the digid terms of
+      service (https://digid.co.tz/terms).
+
+2. Restrictions. Except as expressly permitted above or by applicable law, you may not:
+   a. reverse engineer, decompile, disassemble or otherwise try to derive the source code,
+      algorithms or model parameters of the SDK;
+   b. extract the model files or the engine from the SDK, or use them apart from the SDK;
+   c. remove, disable or get around the licence checks, the evaluation marking, or any
+      copyright or licence notice;
+   d. distribute the SDK other than as part of your own application, or sublicense, sell,
+      rent or lend it; or
+   e. use the SDK to build a competing identity-verification product.
+
+3. Third-party material. The SDK includes open-source components, each under its own licence,
+   listed in THIRD_PARTY_NOTICES.md. Those licences govern those components, and nothing in this
+   licence limits your rights under them.
+
+4. No warranty. THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT, EXCEPT AS YOUR WRITTEN AGREEMENT WITH DIGID PROVIDES.
+
+5. Limitation of liability. TO THE EXTENT PERMITTED BY LAW, ALGOLAB LIMITED IS NOT LIABLE FOR
+   ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR LOSS OF DATA OR PROFITS,
+   ARISING FROM THE USE OF THE SDK, EXCEPT AS YOUR WRITTEN AGREEMENT WITH DIGID PROVIDES.
+
+6. Termination. This licence ends automatically if you breach it. You must then stop using
+   the SDK and remove it from your applications.
+
+Contact: hello@digid.co.tz
