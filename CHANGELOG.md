@@ -6,6 +6,20 @@ release is on its platform's registry: [Maven Central](https://central.sonatype.
 [pub.dev](https://pub.dev/packages/digid) and [npm](https://www.npmjs.com/package/@algolab-africa/digid).
 Updating never needs a new licence key.
 
+## 0.1.5 - 2026-11-04
+
+### Web
+- **The drop-in flow no longer shows in a serif font on pages that set none.** With no
+  `theme.fontFamily`, the flow now uses the system sans-serif (it inherited the page's font, and
+  a page without one showed the browser's default serif). To match your page, name its font in
+  `theme.fontFamily` or set `--digid-font` in CSS.
+- **The default (minimal) layout fits the screen.** Its titles, text and column were phone-sized
+  everywhere; they now grow with the screen up to a desktop size (the title from 20 to 28 px, the
+  column from 420 to 540 px) and stay as before on a phone.
+
+### Android, iOS, Flutter
+- No changes: the same engine as 0.1.4, released under 0.1.5 so all four SDKs keep one version.
+
 ## 0.1.4 - 2026-11-01
 
 ### All platforms
